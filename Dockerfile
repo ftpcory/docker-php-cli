@@ -1,4 +1,4 @@
-FROM php:8.1-cli
+FROM php:7.4-cli
 MAINTAINER Cory Collier <corycollier@corycollier.com>
 
 # Do all of the global system package installations
